@@ -104,5 +104,5 @@ graph TD
 
 ---
 <p align="center">
-  Developed by <b>AK Dev Team</b>
+  Developed by <b>Coreline AI Dev Team</b>
 </p>
