@@ -6,7 +6,7 @@
 [![Core: Dart](https://img.shields.io/badge/Core-Dart-red.svg)](https://dart.dev/)
 
 ## 🚀 개요
-**Power BenchMark (DeviceCheck Pro)**는 모바일 기기를 위해 설계된 고성능 벤치마킹 애플리케이션입니다. CPU와 GPU 성능을 빠르고 직관적으로 측정하여, 사용자와 개발자가 기기의 하드웨어 성능을 단 몇 초 만에 확인할 수 있도록 돕습니다.
+**Power BenchMark (DeviceCheck Pro)**는 Android, IOS 모바일 기기를 위해 설계된 고성능 벤치마킹 애플리케이션입니다. CPU와 GPU 성능을 빠르고 직관적으로 측정하여, 사용자와 개발자가 기기의 하드웨어 성능을 단 몇 초 만에 확인할 수 있도록 돕습니다.
 
 > **"3번의 터치 이내에 성능 확인"** — 빠르고, 정확하며, 직관적인 벤치마크.
 
