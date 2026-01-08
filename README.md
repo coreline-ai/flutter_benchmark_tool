@@ -100,7 +100,7 @@ graph TD
 ---
 
 ## 👥 기여자
-- **Astell&Kern Development Team**
+- **Hwan Choi Development Team**
 
 ---
 <p align="center">
